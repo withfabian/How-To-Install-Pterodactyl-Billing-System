@@ -5,7 +5,7 @@ https://discord.gg/DBJfUbsgpQ
 
 ## SYSTEM REQUIREMENTS
 
-Ubuntu Version 22 **Recomended**
+Ubuntu Version Under 22 **Recomended**
 
 Not Supported For Windows
 
