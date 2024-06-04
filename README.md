@@ -77,12 +77,6 @@ go to directory pterodactyl
 cd /var/www/pterodactyl
 ```
 
-```
-wget https://github.com/yourname/yourpterodactylfilebillingsystem
-```
-
-And Type Yes For All
-
 Next Step 
 ```
 yarn add react-feather
